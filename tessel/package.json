@@ -2,7 +2,7 @@
   "name": "lab2",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,8 @@
     "accel-mma84": "^0.2.4",
     "ambient-attx4": "^0.2.5",
     "climate-si7020": "^0.1.1",
-    "gps-a2235h": "^0.2.1"
+    "gps-a2235h": "^0.2.1",
+    "rfid-pn532": "^0.1.8",
+    "servo-pca9685": "^0.1.3"
   }
 }
